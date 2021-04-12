@@ -1,7 +1,7 @@
-- 👋 Hi
-- 👀 Interested in Data science, Machine Learning, Deep Learning, Natural Language Processing
-- 🌱 Currently Data Science PDEng in TU/e, Netherlands
-- 💞️ I’m looking to collaborate on open source projects in deep learning
+- 👋 Hi there
+- 👀 I'm Interested in Data science, Machine Learning, Deep Learning, Natural Language Processing
+- 🌱 Currently Data Science PDEng in TU/e, Netherlands and
+- 💞️ Looking to collaborate on open source projects in deep learning
 
 
 <!---
