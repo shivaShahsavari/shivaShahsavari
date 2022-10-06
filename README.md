@@ -1,6 +1,6 @@
 - 👋 Hi there
 - 👀 I'm Interested in Data science, Machine Learning, Deep Learning, Natural Language Processing & Computer Vision
-- 🌱 Currently Data Science PDEng in TU/e, Netherlands and
+- 🌱 Currently Data Scientist in DLL, Netherlands and
 - 💞️ Looking to collaborate on open source projects in deep learning
 
 
